@@ -1,0 +1,2 @@
+LIght water, although appearing to have a fancy name, is literally just ordinary water....except it does contain a small amount of [[Heavy Water]]. The point of light water is that it can be used as a moderator --however it can only be used in certain situations, as it absorbs too many neutrons to be used with unenriched uranium (which is why light water is presumably used in [[Spent Fuel Pool]]s)
+#stub 
