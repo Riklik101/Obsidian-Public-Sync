@@ -5,7 +5,7 @@ Either free standing or attached to a missile shield - must be strong enough to 
 
 Although it is made to withstand accidents, it is NOT meant to condense/contain steam - like in the 3 mile and fukushima accidents - wherein in Three Mile gas was intentionally released to prevent overpressure, and fukishima all generators went down. 
 
-Containment Buildings differ based on the type of reactor, but in general it is going to be bigger for PWRs (up to 7x) due to the design basis requiring adequate space for the steam/air mixture in the event of a LOCA. Most designs involve a combination of a sphere and a half spherical top - there are different designs. 
+Containment Buildings differ based on the type of reactor, but in general it is going to be bigger for PWRs (up to 7x) due to the design basis requiring adequate space for the steam/air mixture in the event of a LOCA. Most designs involve a combination of a sphere and a half spherical top - there are different designs.   
 
 
 
