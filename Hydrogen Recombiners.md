@@ -1,6 +1,6 @@
 actually called this [Passive autocatalytic recombiner](https://en.wikipedia.org/wiki/Passive_autocatalytic_recombiner) (Wikipedia) but this is a word jumble 
 
-Most popular company that makes these is Framatone - which is a nuclear reactor based company. 
+Most popular company that makes these is [[Framatone]] - which is a nuclear reactor based company. 
 
 Hydrogen Recombiners are nifty devices that are integral to BWRs (and really most reactors). In the event of the zirconium alloy [[Cladding|cladding]] on fuel rods mixing with the water, hydrogen is created, and this gas can lead to devastating explosions ([[Fukushima Reactor Incident]])
 

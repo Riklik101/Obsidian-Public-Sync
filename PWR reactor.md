@@ -1,9 +1,9 @@
 See also: [[PWR vs BWR]]
 They used enriched uranium, due to their usage of [[light water]], which would absorb too many neutrons if [[Uranium|unenriched uranium]] was used. 
 
-The fuel rods are pressurized with helium, and the fission gas products result in more stability; as fuel "burns" in the reactor, the density increases resulting in small voids developing. Helium pressurization is necessary as these voids can cause potential rupture of fuel rods.
+The fuel rods are pressurized with helium, and the fission gas products result in more stability; as fuel "burns" in the reactor, the density increases resulting in small voids developing. Helium pressurization is necessary as these voids can cause potential rupture of fuel rods. Furthermore, the fuel rods are fitted with zirconium alloy [[Cladding]], necessary for maximum efficiency. 
 
-Since it uses light water, it has protection from both a LOCA and loss of moderator turning into steam as the moderator is directly necessary to keep the chain reaction.
+Since it uses [[Light Water]], it has protection from both a LOCA and loss of moderator turning into steam as the moderator is directly necessary to keep the chain reaction.
 
 ### Why is it pressurized?
 The water is pressured bc the boiling point of water increases with pressure. This means that at a high pressure, the water can be raised to a high temperature without turning into steam, making it a source of very high thermal efficiency. This pressure is maintained with a pressurizer inside of the vessel. 

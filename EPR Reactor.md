@@ -1,5 +1,5 @@
 
-A PWR design, it is designed by Framatone, and the name is the European Pressurized reactor. 
+A [[PWR reactor]] design, it is designed by [[Framatone]], and the name is the European Pressurized reactor. 
 The design service lifetime is 60 years. 
 
 (This is mostly paraphrased from wikipedia :3)
