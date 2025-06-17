@@ -1,0 +1,1 @@
+A broad term, acronymized as ECCS, it encompasses all of the emergency systems used in reactors. 
