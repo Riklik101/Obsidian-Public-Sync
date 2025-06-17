@@ -1,0 +1,6 @@
+Light water, although appearing to have a fancy name, is literally just ordinary water....except it does contain a small amount of [[Heavy Water]]. The point of light water is that it can be used as a moderator --however it can only be used in certain situations, as it absorbs too many neutrons to be used with unenriched uranium (which is why light water is presumably used in [[Spent Fuel Pool]]s)
+Light water is mainly used in [[BWR reactor]]s & [[PWR reactor]]s
+
+Uranium Enrichment is necessary for the usage of light water.
+In LWRs, there is a [[RPV]] that contains all of the reactor core.
+Benefits of light water is that in the event of a [[LOCA]], water is lost, resulting in the moderation loss. however, radioactive decay continues, requiring shutdown water circulation. Any temperature increase of the reactor results in less moderation that light water supplies, reducing the activity in the reactor. However, that means that if reactivity increases too much, there will be less moderation to then slow the nuclear reactor. 
