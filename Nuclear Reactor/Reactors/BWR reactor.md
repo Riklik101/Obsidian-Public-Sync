@@ -41,4 +41,4 @@ This houses systems to process radioactive substances made by the plant
 Houses equipment that provides for heat management of the plant. 
 
 ## Emergency Operations
-In an emergency, the [[public-sync/Nuclear Reactor/Emergency Core Cooling Systems|Emergency Core Cooling Systems]] will activate. 
+In an emergency, the [[Emergency Core Cooling Systems|Emergency Core Cooling Systems]] will activate. 
