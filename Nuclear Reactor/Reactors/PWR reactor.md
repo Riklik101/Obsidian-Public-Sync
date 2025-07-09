@@ -9,8 +9,8 @@ Since it uses [[Light Water]], it has protection from both a LOCA and loss of mo
 The water is pressured bc the boiling point of water increases with pressure. This means that at a high pressure, the water can be raised to a high temperature without turning into steam, making it a source of very high thermal efficiency. This pressure is maintained with a pressurizer inside of the vessel. 
 
 By keeping water in liquid form, control rods can be placed in the top, resulting in increased safety, as the electromagnetic system holding rods can immediately drop for increased safety - gravity with do the work.
-![[Pasted image 20250606223906.jpg]]
+![[PWR Heat Exchanger.jpg]]
 **This photo shows the inverted U bundles inside of the steam generator in a PWR**
 The hot water from reactor flows through a heat exchanger made of U pipes, heating up the secondary loop (steam generation) - this loop is at a lower pressure as so it can boil to steam. Large reactors can have up to 4 gens, which may even be larger then the reactor itself.
 
-![[Student-pwr.gif]]
+![[PWR Simple Diagram.gif]]

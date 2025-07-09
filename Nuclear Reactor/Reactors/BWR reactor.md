@@ -18,9 +18,9 @@ Control rods are placed in the bottom of the reactor, rather then the top, as th
 Control rods are controlled by the [[Control Rod Drive]] system
 #lwc
 
-![[BoilingWaterReactor.gif]]
+![[BWR Simple Diagram.gif]]
 
-See [[ML022830867.pdf]] for more info on where I am getting this information. 
+See [[USNRC BWR-4 Manual.pdf]] for more info on where I am getting this information. 
 
 ## BWR Plant Layout
 In a BWR plant, there are many different buildings containing the structures for the reactor. 
