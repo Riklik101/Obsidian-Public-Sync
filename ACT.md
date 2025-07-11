@@ -7,3 +7,9 @@ In addition to the ACT test, ACT programs include ACT Academy, ACT Aspire, ACT C
 ## The actual test
 The test is divided into multiple portions
 Math - 45 mintues to complete 75 questions regarding structures, etc
+
+Reading
+
+Science
+
+English
