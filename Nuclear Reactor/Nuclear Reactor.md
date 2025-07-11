@@ -1,7 +1,11 @@
-In it's most simplest form, a nuclear reactor uses uranium and other radioactive materials and the fission from uranium to create heat, and transfer that heat into steam to create power. Nuclear reactors are one of the biggest sources of energy, although not renewable, uranium has a very high energy density resulting in massive power transmissions. 
+In it's most simplest form, a nuclear reactor uses [[uranium]] and other radioactive materials and the fission from uranium to create heat, and transfer that heat into steam to create power. Nuclear reactors are one of the biggest sources of energy, although not renewable, uranium has a very high energy density resulting in massive power transmissions. 
 
 There are many different types of nuclear reactors, and this term serves as a broad hub/introduction for each type. 
 
+After uranium is used in reactors, it is termed [[Spent Nuclear Fuel]]. In many [[Thermal Reactor]]s, this spent fuel is stored in [[Spent Fuel Pool]]s, and it can later go under reprocessing.
+
+# Thermal Reactors
+Thermal reactors are reactors specifically designed to be 
 ## Pressurized Water Reactor
 A [[PWR reactor]] is the most common type of reactor. The water in this type of reactor is pressurized, so that water can be used as coolant; the boiling point of water increases as it's pressure increases.
 
