@@ -1,0 +1,2 @@
+Also known as RAM, Random Access Memory is a form of [[Volatile Memory]] used inside of computing applications. 
+Well regarded for it's speed and usefulness, it is well known across the computing world. 

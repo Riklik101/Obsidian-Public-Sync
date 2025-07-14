@@ -1,0 +1,3 @@
+Volatile memory is memory such that it requires continuous power to be maintained. an important example is [[Random Access Memory|RAM]]. Volatile memory has two different types - dynamic and static. Dynamic is the most popular and cheaper, and static means that it is faster, however it has a higher price and is often used in CPU caches. 
+
+Volatile memory is faster then [[Non-Volatile Memory]], and also provides more data security in that all data is lost upon shutdown. 
