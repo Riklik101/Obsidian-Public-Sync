@@ -16,7 +16,7 @@ Video: https://www.youtube.com/watch?v=rKSpK1dXn4E
 5. After clicking the Deploy button, you'll see that the deploy failed. That's as expected.
 6. OPTIONAL: Go to your [dashboard](https://vercel.com/dashboard), then click on the project you created and disconnect the git repository (Settings > Git > Disconnect)
 ![[disconnect-repo-vercel.png]]
-7. Then, [[get-project-id-account-id-and-token-vercel|get the account id, project id and token from vercel]]
+7. Then, [[public-sync/publish/publish stuff/get-project-id-account-id-and-token-vercel|get the account id, project id and token from vercel]]
 8. Now with the account id, project id, and token, go back to your forked repository and update Github secrets (Settings > Secrets > Actions). Add the following secrets: `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID`, `VERCEL_TOKEN`
 ![[github-secrets-vercel.png]]
 9. Finally, click "Actions", and enable the workflow
@@ -26,5 +26,5 @@ Video: https://www.youtube.com/watch?v=rKSpK1dXn4E
 **Note**: Make sure you don't delete the `/publish/home.md` file as that is your "landing page"
 
 Optionally, you can:
-- [[connect-obsidian-vault-with-github|Publish Notes within your Obsidian Vault]] by installing the Obsidian Git plugin
-- [[update-publish-settings-github-actions|Update the publish settings]] to publish your notes to a [[deploy-a-custom-linked-blog-starter|custom version]] of the linked-blog-starter 
+- [[public-sync/publish/publish stuff/connect-obsidian-vault-with-github|Publish Notes within your Obsidian Vault]] by installing the Obsidian Git plugin
+- [[public-sync/publish/publish stuff/update-publish-settings-github-actions|Update the publish settings]] to publish your notes to a [[public-sync/publish/publish stuff/deploy-a-custom-linked-blog-starter|custom version]] of the linked-blog-starter 

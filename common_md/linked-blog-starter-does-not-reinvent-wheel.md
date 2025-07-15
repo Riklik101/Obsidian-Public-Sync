@@ -3,7 +3,7 @@ title: linked-blog-starter does not reinvent the wheel
 date: 2022-12-12
 ---
 
-I'm not a fan of [reinventing the wheel](reinventing-the-wheel.md), thus, I've searched for the best libraries out there to help me make this website. Here are a few external libraries I used:
+I'm not a fan of [reinventing the wheel](public-sync/common_md/reinventing-the-wheel.md), thus, I've searched for the best libraries out there to help me make this website. Here are a few external libraries I used:
 
 ## Converting MD to HTML
 
@@ -13,4 +13,4 @@ I'm not a fan of [reinventing the wheel](reinventing-the-wheel.md), thus, I've s
 
 ## Others:
 
-* Obsidian Git to help with [publishing notes from within the Obsidian Vault](connect-obsidian-vault-with-github.md)
+* Obsidian Git to help with [publishing notes from within the Obsidian Vault](public-sync/common_md/connect-obsidian-vault-with-github.md)

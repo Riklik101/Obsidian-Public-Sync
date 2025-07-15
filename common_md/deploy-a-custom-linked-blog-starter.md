@@ -6,7 +6,7 @@ By the end of this tutorial, you will have a custom version of the [linked-blog-
 
 ## Fork the repository and get it to run locally
 
-First, we want to fork the linked-blog-starter repo, then [install](install-linked-blog-starter-locally.md) and run it locally.
+First, we want to fork the linked-blog-starter repo, then [install](public-sync/common_md/install-linked-blog-starter-locally.md) and run it locally.
 
 **Note**: Update `https://github.com/matthewwong525/linked-blog-starter` with your own repository link
 
@@ -29,6 +29,6 @@ Here are the [docs for Next.JS](https://nextjs.org/docs) and a few things to kno
 
 ## Publish the repository and link it with an MD repository
 
-1. [Create and publish](publish-your-obsidian-notes-with-linked-blog-starter.md) your forked md repository
-1. Update the ["BLOG_REPO" environment variable](update-publish-settings-github-actions.md) to point to your forked repo
-1. OPTIONAL: [Connect your Obsidian Vault with Github](connect-obsidian-vault-with-github.md)
+1. [Create and publish](public-sync/common_md/publish-your-obsidian-notes-with-linked-blog-starter.md) your forked md repository
+1. Update the ["BLOG_REPO" environment variable](public-sync/common_md/update-publish-settings-github-actions.md) to point to your forked repo
+1. OPTIONAL: [Connect your Obsidian Vault with Github](public-sync/common_md/connect-obsidian-vault-with-github.md)
