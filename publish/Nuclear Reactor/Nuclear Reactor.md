@@ -1,4 +1,4 @@
-In it's most simplest form, a nuclear reactor uses [[uranium]] and other radioactive materials and the fission from uranium to create heat, and transfer that heat into steam to create power. Nuclear reactors are one of the biggest sources of energy, although not renewable, uranium has a very high energy density resulting in massive power transmissions. 
+In it's most simplest form, a nuclear reactor uses [[Uranium]] and other radioactive materials and the fission from uranium to create heat, and transfer that heat into steam to create power. Nuclear reactors are one of the biggest sources of energy, although not renewable, uranium has a very high energy density resulting in massive power transmissions. 
 
 There are many different types of nuclear reactors, and this term serves as a broad hub/introduction for each type. 
 
