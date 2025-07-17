@@ -1,6 +1,6 @@
 ---
-title: An Extendable Obsidian Publish alternative using Next.JS
-excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
+title: Obsidian Notes Blog of Reactors and Research
+excerpt: A.K.A All of the research I have compiled and done.
 ---
 Welcome to my blog of choice! I am a high-schooler publishing his research on daily stuff on the regular!
 
