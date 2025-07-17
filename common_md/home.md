@@ -1,29 +1,6 @@
 ---
 title: Obsidian Notes Blog of Reactors and Research
-excerpt: A.K.A All of the research I have compiled and done.
+excerpt: Create your own template or use someone else's. Changing the template is a matter of updating one line
 ---
 Welcome to my blog of choice! I am a high-schooler publishing his research on daily stuff on the regular!
 
-## Nuclear Reactors
-One main topic of choice is [[Nuclear Reactor]]s, a favorite of mine.
-
-Some pages I am most proud of researching include:
-* [[Hydrogen Recombiners]]
-* [[Neutron Flux differences in LMFBR vs Thermals]]
-* [[Fast Neutron Reactor]]
-* [[PWR reactor]]
-
-I am also working on several other interests! 
-
-## Other Interests
-
-### Aviation
-I do research into aviation especially the equipment and other types of info. 
-For example, my thoughts on AI171 based on the preliminary report: [[AI171 Prelim Response|AI171 Response on Prelim. Report]]
-
-### Misc.
-Some miscellaneous information revolves around different things. A non-extensive list is provided below:
-* [[AI Watermarking]]
-* [[Electricity]]
-* [[Julian Dates]]
-* [[ACT]]
