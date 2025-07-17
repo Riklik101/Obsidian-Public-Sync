@@ -1,5 +1,5 @@
-See also:
-	They used enriched uranium, due to their usage of [[Light Water]], which would absorb too many neutrons if [[Uranium|unenriched uranium]] was used. 
+
+This reactor is a PWR reactor - a pressurized water reactor. This is a specific type of [[Nuclear Reactor]]--in that it is pressurized water. This is also the most common type of reactor used and produced. 
 
 The fuel rods are pressurized with helium, and the fission gas products result in more stability; as fuel "burns" in the reactor, the density increases resulting in small voids developing. Helium pressurization is necessary as these voids can cause potential rupture of fuel rods. Furthermore, the fuel rods are fitted with zirconium alloy [[Cladding]], necessary for maximum efficiency. 
 
