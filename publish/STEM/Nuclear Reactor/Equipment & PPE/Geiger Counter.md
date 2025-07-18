@@ -22,5 +22,6 @@ A more complex way to show radiation is by dose rate, shown through the [[Siever
 The main limits of a Geiger counter is that it cannot 
 * Differentiate between the types of radiation or measure radiation energy
 	* results in incorrect measurements of dose rates - requiring an energy-compensated tube.
+	* (For more info, check out [[Townsend discharge]])
 * Be accurate at higher dose rates
-	* due to the amount of dead-time between ionization events, where any further radiation does not count. Some counters have counters, but [[Ion Chamber]]s are preferred for this. 
+	* due to the amount of dead-time between ionization events, where any further radiation does not count. Some counters have workarounds, but [[Ion Chamber]]s are preferred for this. 

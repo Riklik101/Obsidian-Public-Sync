@@ -1,0 +1,1 @@
+A dosimeter is a device used to measure the dose of [[Ionizing Radiation]]. #lwc 

@@ -20,6 +20,10 @@ I am also working on several other interests!
 I do research into aviation especially the equipment and other types of info. 
 For example, my thoughts on AI171 based on the preliminary report: [[AI171 Prelim Response|AI171 Response on Prelim. Report]]
 
+### Medical
+I am working on a new topic - medical, including mental health, physical health, and equipment. For now, a few topics are linked.
+[[Attention Deficit Hyperactivity Disorder]]
+
 ### Misc.
 Some miscellaneous information revolves around different things. A non-extensive list is provided below:
 * [[AI Watermarking]]
