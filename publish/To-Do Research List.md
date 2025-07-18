@@ -10,3 +10,5 @@
 * Expand [[Fuel Rods]] with info about CANDU, etc
 * Actually write a page about CANDU reactors
 * Finish ADHD
+* CPR
+* 
