@@ -1,0 +1,4 @@
+Put simply, it is a process where by creating an electric field using a DC voltage source, between the anode and a cathode said field is developed.
+In this field, if a free electron from for example, radiation, is taken, it collides with gases and consequently frees additional electrons, accelerating more and creating a feedback loop. The original ionization event liberates a singular electron, and every one subsequently liberates another. The original ionization event therefore creates an ion pair. 
+
+In [[Geiger Counter]]s, for example, the radiation causes a initial ion pair that is sufficient enough to cause complete ionization of the fill gas. This is why it cannot measure the energy of that incident radiation. 

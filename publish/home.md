@@ -26,3 +26,9 @@ Some miscellaneous information revolves around different things. A non-extensive
 * [[Electricity]]
 * [[Julian Dates]]
 * [[ACT]]
+
+## Site Work and Backlog
+
+As I am actively working on my research in my spare time, I often forget what I am working on; I will place future research topics that are going to be researched soon or unfinished pages here. 
+
+[[To-Do Research List]]
