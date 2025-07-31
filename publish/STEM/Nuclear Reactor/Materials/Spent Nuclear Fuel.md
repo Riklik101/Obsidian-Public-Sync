@@ -12,7 +12,7 @@ Spent fuel contains 3% by mass of fission products of 235U and 239Pu, considered
 ### Uranium
 96% by mass is uranium, most u238 with some 235 (.8%) and little 236 (.4%). Reprocessed uranium will contain u236, not found in nature, and can be used as a fingerprint for spent nuclear fuel. If using Thorium fuel to product fissile u233, the SNF will have the same uranium. The presence of u233 will affect the long term radioactive decay, and compared with MOX fuel, the activity around one million years in throium will be higher due to the undecayed u233
 
-In natural uranium, fuel is usually not discharged because the fissile material is fully used up, but because [[Neutron-Absorbing Fission Products]] have built up and the fuel is unable to successfully sustain a nuclear reaction. Some natural uranium fuels use chemically active [[Cladding]], such as [[Magnox]], which need to be reprocessed as long-term storage and disposal is difficult. 
+In natural uranium, fuel is usually not discharged because the fissile material is fully used up, but because [[Neutron-Absorbing Fission Products]] have built up and the fuel is unable to successfully sustain a nuclear reaction. Some natural uranium fuels use chemically active [[cladding]], such as [[Magnox]], which need to be reprocessed as long-term storage and disposal is difficult. 
 ### Minor actinides
 spent fuel contains traces of minor actinides, other then uranium and plutonium. the amount formed depends greatly upon nature of fuel and conditions
 ## Storage

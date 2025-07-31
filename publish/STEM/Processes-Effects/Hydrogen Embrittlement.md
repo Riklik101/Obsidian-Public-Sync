@@ -15,4 +15,4 @@ This is mainly affected by
 - surface conditions
 - nature of material crack front
 
-Hydrogen embrittlement is closely linked to [[Cladding]] in nuclear reactors, such as [[BWR reactor]]s and [[RBMK Reactor]]s, alongside [[PWR reactor]]s as the hydrogen from zirconium alloy touching water can result in hydrogen embrittlement weakening the fuel rod structure and damaging the protective layer the zirconium alloy is meant for. 
+Hydrogen embrittlement is closely linked to [[cladding]] in nuclear reactors, such as [[BWR reactor]]s and [[RBMK Reactor]]s, alongside [[PWR reactor]]s as the hydrogen from zirconium alloy touching water can result in hydrogen embrittlement weakening the fuel rod structure and damaging the protective layer the zirconium alloy is meant for. 

@@ -8,10 +8,12 @@ Otherwise, a treatment plant's water can be used for non-potable water usage, su
 ## Process
 The process of treating wastewater is complex, however it can be simplified into some basic steps. 
 
-![[Pasted image 20250725213814.jpg]]
+![[Wastewater Treatment Process-Diagram.jpg]]
 
 ### Pre-Treatment
 This treatment involves [[Pump Station]]s, screening, the [[Grease Trap]], and grit chambers.
+Also included is the Stormwater retention area
+Pump stations literally pump water to the plant, and the screening areas are needed to separate large grit and debris from the water. Stormwater retention is in case of storms, where water flow increases due to storm drains; large water influx requires retention methods. 
 
 ### Primary Treatment
 Primary involves the [[Primary Clarifier]], aereation, [[Secondary Clarifier]], gravity thickeners for the sludge, and other miscellaneous steps. 

@@ -25,6 +25,6 @@ An interesting side note is that since there is only one coolant loop, radioacti
 # Fuel
 Reactors use fuel. Specifically, [[Uranium]] is used. (in most cases). After multiple rounds of fission has occurred, uranium reaches its end of life. This is either by it being unable to sustain a proficient enough nuclear reaction to generate heat, or that it is simply too depleted or other reasons. In this case, it is now referred to as [[Spent Nuclear Fuel]], and is often stored in a [[Spent Fuel Pool]] before eventually being stored in dry casks or other [[Nuclear Waste Disposal]] Methods.
 
-Fuel is usually [[Cladding|cladded]] in Zirconium, for multiple reasons. [[Fuel Rods]] are the reactor term. 
+Fuel is usually [[cladding|cladded]] in Zirconium, for multiple reasons. [[Fuel Rods]] are the reactor term. 
 
 For a sustained reaction, control methods are needed. In this case, [[Control Rods]] are used, using a [[Control Rod Drive]] subsystem. In BWR reactors, control rods are fed through bottom penetrations in the [[RPV|Reactor Pressure Vessel]], and as such, require other equipment, unlike PWRs and other such reactors where gravity can be used as an assist mechanism. 

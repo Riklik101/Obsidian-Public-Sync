@@ -1,5 +1,3 @@
-
-
 Cladding is the thin walled metal tube that composes the outside of a fuel rod.
 It's purpose is to prevent corrosion of the fuel by the coolant & release of fission contents into the coolant. Although zirconium alloy is common, aluminum and stainless steel is also used. 
 ## Cladding Types
