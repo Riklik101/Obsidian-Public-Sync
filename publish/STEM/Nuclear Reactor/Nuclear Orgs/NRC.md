@@ -1,3 +1,3 @@
-Nuclear regulatory commission of the USA - oversees the regulation of nuclear plants. - also has other jobs but that's the most important IMO.
+The NRC has a important role in that it regulates the operation and regulation of [[Nuclear Reactor]]s in the USA. This regulation is done by many means, one of which is reporting of all reactor activities daily. The regulation is scrutinized due to the risk of radiation contamination and the possibility of attacks or the usage of enriched uranium for weapons. The NRC also manages (In conjunction with OSHA and DOL) the radiation standards and regulations of workers. 
 
-has the interesting job of having to get each workers yearly [[Dosimeter]] and calculate it 
+The NRC does not only work with reactors; rather, it regulates *all* radiation sources and possibilities. One common source is nuclear medicine; many machineries use capsules that contain radioactive sources. 
