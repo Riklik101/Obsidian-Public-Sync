@@ -1,8 +1,8 @@
 ---
-title: Obsidian Notes Blog of Reactors and Research
-excerpt: A.K.A my collection of research using the power of ADHD.
+title: Nuclear Reactor Research & Other Interests | A Blog
+excerpt: Homepage - Main Directory
 ---
-Welcome to my blog of choice! I am a high-schooler publishing his research on daily stuff on the regular!
+This is my blog that documents my research and data collection on topics that fascinate or interest me! A majority of this is reactor research; which is listed below. However, I have other interests that are documented, and this blog is updating regularly as a research and document new prospects. 
 ## Nuclear Reactors
 One main topic of choice is [[Nuclear Reactor]]s, a favorite of mine.
 
