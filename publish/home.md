@@ -6,6 +6,8 @@ This is my blog that documents my research and data collection on topics that fa
 ## Nuclear Reactors
 My main interest that I spend the most time researching are [[Nuclear Reactor|Nuclear Reactors]]. Reactors are our world's best source of energy that is both plentiful and constant. Modern plants can produce upwards of 1000MWe, and even vintage plants can produce a staggering amount of energy. The safety of nuclear energy is astounding; yet massive accidents such as [[Chernobyl]] and [[Fukushima Reactor Incident]] have resulted in a negative reputation regarding reactors. This blog serves this purpose: to *primarily show the working parts and pieces that make up nuclear reactors* and secondarily *to dispel myths of reactors by clarifying often unclear or murky parts of reactors and presenting facts in a straight-forward way*. 
 
+It may be said that this isn't typical research; there is no abstract, but the point of this is not to research in it of itself; as most of it is coagulating information from various sources and putting them on a interlinked blog, the point of this blog is not only to use my passion for nuclear energy for good use; it's also to *demistify reactor operations* -- for example, explaining systems using [[NRC]] documentation, and simplifying the documents to be understood by the everyday citizen; the **biggest hamper to public nuclear energy is over-technical manuals and explanation AND over-simplified models**.[^1] 
+
 Some pages I am most proud of researching include:
 * [[Hydrogen Recombiners]]
 * [[Neutron Flux differences in LMFBR vs Thermals]]
@@ -37,3 +39,5 @@ Some miscellaneous information revolves around different things. A non-extensive
 As I am actively working on my research in my spare time, I often forget what I am working on; I will place future research topics that are going to be researched soon or unfinished pages here. 
 
 [[To-Do Research List]]
+
+[^1]: Sidenote: How did I manage to use multiple semicolons in a sentence like this? I presume that this sentence is almost certainly a run-on sentence but I do like how I wrote it. 
