@@ -13,7 +13,7 @@ In an emergency, the [[ECCS|ECCS]] will activate. BWR plants, like other reactor
 
 ![[BWR Simple Diagram.gif]]
 
-See [[USNRC BWR-4 Manual.pdf]] for more info on where I am getting this information. 
+See [[Reactor Manuals]] for more info on where I am getting this information. 
 
 ## BWR Plant Layout
 In a BWR plant, there are many different buildings containing the structures for the reactor. 
