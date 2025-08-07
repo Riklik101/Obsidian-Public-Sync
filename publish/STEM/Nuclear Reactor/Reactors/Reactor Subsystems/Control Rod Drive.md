@@ -1,4 +1,6 @@
-The CRD system in a [[Nuclear Reactor]] is crucial for its operation. The CRD is composed of a few subsystems.
+The CRD system in a [[Nuclear Reactor]] is crucial for its operation. The CRD is necessary for the percise control of [[Control Rods]] in a reactor. In [[BWR reactor]]s, this is especially necessary, as control rods are inserted via the bottom penetration points in the [[RPV]], and if there is a SCRAM, gravity **cannot** be relied on to insert the rods, differing from other reactor designs. Therefore, a method to SCRAM the plant and percisely control the rods in a BWR is necessary.
+
+# BWR Control Rod Drive Mechanisms
 ## Fine Motion Control Rod Drive (FMCRD)
 The FMCRD is responsible for providing electric motor driven positioning for normal insertion, withdrawal. It also provides electric motor run-in of all control rods that is separated from the hydraulically controlled SCRAM system, simultaneous with SCRAM. 
 

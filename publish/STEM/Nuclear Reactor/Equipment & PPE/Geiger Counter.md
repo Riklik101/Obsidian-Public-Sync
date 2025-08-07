@@ -12,12 +12,9 @@ Too high a voltage applied results in continuous discharge, and too low makes th
 A quenching mixture is usually added to the fill gas, like a halogen or small amount of organic material to help terminate each discharge int he tube. 
 
 ### Readouts
-There are two types - counts and radiation dose
-
-Counts is used with alpha and beta particles, and is recognized by CPM. It shows the # of ionizing events.
-
+There are two types - counts and radiation dose. 
+Counts is used with alpha and beta particles, and is recognized by CPM. It shows the # of ionizing events. 
 A more complex way to show radiation is by dose rate, shown through the [[Sievert]] unit of measurement. 
-
 ### Overview
 The main limits of a Geiger counter is that it cannot 
 * Differentiate between the types of radiation or measure radiation energy

@@ -1,12 +1,12 @@
 Cladding is the thin walled metal tube that composes the outside of a fuel rod.
-It's purpose is to prevent corrosion of the fuel by the coolant & release of fission contents into the coolant. Although zirconium alloy is common, aluminum and stainless steel is also used. 
+It's purpose is to prevent corrosion of the fuel by the coolant & release of fission contents into the coolant. Although [[Zirconium]] alloy is common, aluminum and stainless steel is also used. 
 ## Cladding Types
 Zirconium alloy has been used for so long due to it's properties being very good for nuclear reactors.
 * New research suggests that there is an alternative - SiGA cladding. This cladding is made from silicon carbide-- silicon and carbon in a crystalline format. It is able to survive very high temperatures but is brittle.
 * They plan on solving this by incorporating the fiber into its cladding, reinforcing the material metaphorically like repair into concrete. 
 
 ### Zirconium Cladding Safety Issue
-The issue with using zirconium alloy is that upon contact with STEAM (which may occur during a large scale LOCA), it reacts to form the highly flammable hydrogen gas. [[Hydrogen Recombiners]] can be used to manage this, however. 
+The issue with using zirconium alloy is that upon contact with STEAM (which may occur during a large scale [[LOCA]]), it reacts to form the highly flammable hydrogen gas. [[Hydrogen Recombiners]] can be used to manage this, however. 
 
 This reaction is accelerated at high temperatures.
 (This also occurs in heavy water reactors such as the CANDU reactor.)
