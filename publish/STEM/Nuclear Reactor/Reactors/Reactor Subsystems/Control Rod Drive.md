@@ -10,3 +10,6 @@ The HCU contains high pressure water that has enough water pressure for the SCRA
 ## Control Rod Drive Hydraulic (CRDH)
 The CRDH has high pressure demineralized water, regulated and controlled to charge each HCU scram accumulators, purge water, and provide backup water to the RPV when feedwater flow is down. 
 
+## Misc Systems
+
+The CRD also has a Scram Discharge Volume attached to it; during a scram, after water has entered into the rods and pushed them in, the scram discharge water collects here. **The majority of NRC reported incidents related to SCRAMs occur due to the SDV being full for various reasons**

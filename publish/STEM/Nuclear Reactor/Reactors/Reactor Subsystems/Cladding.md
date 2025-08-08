@@ -11,7 +11,7 @@ The issue with using zirconium alloy is that upon contact with STEAM (which may 
 This reaction is accelerated at high temperatures.
 (This also occurs in heavy water reactors such as the CANDU reactor.)
 
-This reaction is the direct cause of the Three Mile Island Nuclear Incident. This was also the cause of the [[Fukushima Reactor Incident]]-- where when the generators went out, hydrogen gas was vented into the reactor maintenance halls, and it reached a high enough concentration to explode. This reaction was also occured during chernobyl - where steam from the reactor escaped.
+This reaction is the direct cause of the Three Mile Island Nuclear Incident. This was also the cause of the [[Fukushima Reactor]]-- where when the generators went out, hydrogen gas was vented into the reactor maintenance halls, and it reached a high enough concentration to explode. This reaction was also occured during chernobyl - where steam from the reactor escaped.
 
 Furthermore, during a possible LOCA, [[Hydrogen Embrittlement]] can occur, where 5-20% of the released hdyrogen gas diffuses into the cladding forming zirconium hydrides. This process also weakens the rods cladding due to the lower ductility, forming blisters and cracks. 
 ### Why is zirconium alloy cladding used?
