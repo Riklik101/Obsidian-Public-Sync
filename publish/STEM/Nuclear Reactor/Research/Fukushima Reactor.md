@@ -24,7 +24,7 @@ Fukushima's earthquake trigged SCRAM of 3 [[Nuclear Reactor]]s, tsunami stopped 
 
 ## Information
 Fukushima has 6 reactor units; 5 & 6 were undergoing maintenance and are located a bit away from the rest, and experienced no damage during the incident. unit 4 was undergoing maintenance and was damaged. 
-![[Pasted image 20250808140849.png]]
+![[fukushima 1 site.png]]
 ## Before the incident
 TEPCO (tokyo electric power company) submitted a report predicting a high tsunami; this report was originally made in 2008 but delayed.
 
