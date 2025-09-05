@@ -35,7 +35,7 @@ At 15:27 the first tsunami of 7 struck - the seawall and plant design indicated 
 
 Also, the unit 2 SFP was damaged, and needed to be pumped (spent fuel pools are often noted as a primary feature that needs to be managed as if damaged can result in major damage and hard to cool due to the lack of safety systems regarding it.)
 
-Later, the Unit 1 reactor has a low water level, and ECCS fails to manually start, and fuel unrecovery occurs - loss of ALL water. Core temp increases and fuel damage occurs. At this time, likely the pressure was also causing the zirconium [[cladding]] to start a reaction creating hydrogen gas. After this, the first mobile generators arrive, and unit 2 SLCS is attempted to be started. 
+Later, the Unit 1 reactor has a low water level, and ECCS fails to manually start, and fuel unrecovery occurs - loss of ALL water. Core temp increases and fuel damage occurs. At this time, likely the pressure was also causing the zirconium [[reactor cladding]] to start a reaction creating hydrogen gas. After this, the first mobile generators arrive, and unit 2 SLCS is attempted to be started. 
 
 The next day, Unit 1 is planned to be vented; and fresh water injection begins, however, the core of reactor 1 has fallen to the bottom of the [[RPV]]. Unit 2 is also planned to be vented, and then venting occurs. a bit later, a hydrogen explosion occurs.
 

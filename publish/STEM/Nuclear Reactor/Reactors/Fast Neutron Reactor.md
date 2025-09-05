@@ -10,7 +10,7 @@ The following image shows the neutron flux differences
 
 One main difference in FNR vs TR is that the missing reactivity from the neutron moderators means that you need higher enrichment of natural [[Uranium]]-- around 10% or more. Most reactors use hexagonal lattices (similar to [[VVER Reactor (WWER)]]s) to reach smaller ratios of coolant to fuel. Compact nuclear cores are more common in FNRs, to reach desired core reactivity and therefore means that FNR cores usually achieve higher power densities. Neither [[Light Water]] nor [[Heavy Water]] can be used as coolant due to its moderating properties and insufficient thermal properties, therefore leading to using liquid sodium or lead as a coolant. 
 
-The fuel is either metal or ceramic, with metal [[cladding]] - unlike a [[PWR reactor]]'s [[Zirconium]] cladding. Liquids metals are used widely due to their heat transfer properties, and sodium cooled fast reactors are the most common design:
+The fuel is either metal or ceramic, with metal [[reactor cladding]] - unlike a [[PWR reactor]]'s [[Zirconium]] cladding. Liquids metals are used widely due to their heat transfer properties, and sodium cooled fast reactors are the most common design:
 ![[Sodium Fast Reactor Diagram.png]]
 Because Sodium reacts violently with water, SFRs require a intermediate heat exchanger between [[RPV]] and [[Steam Turbines]]. This requires much experience, leading to SFRs being slowly built.
 

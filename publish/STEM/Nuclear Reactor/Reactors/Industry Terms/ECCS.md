@@ -22,7 +22,7 @@ HPCI is an independent ECCS requiring NO aux AC, air, or cooling water systems t
 ### Automatic Depressurization System
 ADS consists of redundant logics that can open small relief valves to depressurize reactor if HPCI is unavailable or cannot recover RPV water level.
 ## Low Pressure ECCS
-These systems are for after the RPV is depressurized to maintain water level of the reactor and also reduce temperatures to ensure [[cladding]] does not reach the point of creating hydrogen. 
+These systems are for after the RPV is depressurized to maintain water level of the reactor and also reduce temperatures to ensure [[reactor cladding]] does not reach the point of creating hydrogen. 
 ### Low Pressure Coolant Injection
 LPCI of the [[RHR|Residual Heat Removal System]] provides makeup water to the vessel under LOCA conditions. RHR has several modes for the same equipment. LPCI is the main mode and oeprates automatically. During this mode, water is taken from the supression pools and discharged into the RPV, via the recirculation pump output lines.
 ##### Containment Spray

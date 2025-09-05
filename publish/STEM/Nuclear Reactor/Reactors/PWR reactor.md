@@ -1,7 +1,7 @@
 
 This reactor is a PWR reactor - a pressurized water reactor. This is a specific type of [[Nuclear Reactor]]--in that it is pressurized water. This is also the most common type of reactor used and produced. 
 
-The fuel rods are pressurized with helium, and the fission gas products result in more stability; as fuel "burns" in the reactor, the density increases resulting in small voids developing. Helium pressurization is necessary as these voids can cause potential rupture of fuel rods. Furthermore, the fuel rods are fitted with zirconium alloy [[cladding]], necessary for maximum efficiency. 
+The fuel rods are pressurized with helium, and the fission gas products result in more stability; as fuel "burns" in the reactor, the density increases resulting in small voids developing. Helium pressurization is necessary as these voids can cause potential rupture of fuel rods. Furthermore, the fuel rods are fitted with zirconium alloy [[reactor cladding]], necessary for maximum efficiency. 
 
 Since it uses [[Light Water]], it has protection from both a LOCA and loss of moderator turning into steam as the moderator is directly necessary to keep the chain reaction.
 
