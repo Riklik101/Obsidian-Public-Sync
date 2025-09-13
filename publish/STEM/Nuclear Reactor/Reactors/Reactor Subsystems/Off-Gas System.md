@@ -1,5 +1,5 @@
 
-[[BWR reactor]] offgas system is used for condensers as some gases are made that cannot be condensed. If the condenser has to vent to the offgas open due to high pressure this is the treatement process. Basically what happens is that it goes throughs ome treatments and then exits thorught the plant stack, and this is all monitored to comply with regulatory standards. 
+[[BWR reactor]] offgas system is used for condensers as some gases are made that cannot be condensed. If the [[Condenser]] has to vent to the offgas open due to high pressure this is the treatement process. Basically what happens is that it goes throughs ome treatments and then exits thorught the plant stack, and this is all monitored to comply with regulatory standards. 
 
 The following is directly made from chatgpt; not my ideal source, however this system has been sitting on my backlog for weeks, so I had to do it this way. 
 

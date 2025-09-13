@@ -29,7 +29,7 @@ Fuel is contained inside of [[Fuel Rods]], which contain [[Zirconium]] [[reactor
 
 For a sustained reaction, control methods are needed. In this case, [[Control Rods]] are used, using a [[Control Rod Drive]] subsystem. In BWR reactors, control rods are fed through bottom penetrations in the [[RPV|Reactor Pressure Vessel]], and as such, require other equipment, unlike PWRs and other such reactors where gravity can be used as an assist mechanism. 
 # Cooling
-Reactors need cooling[^1]. Primary cooling is usually the same way that we extract power, cycling water through the reactor core, then heat exchangers to extract the heat in the case of a PWR or directly use steam from the core in a BWR, and then a condenser to return the steam into water that can be heated again. These cooling methods are generally enough to manage the cooling the reactor needs. If the reactor experiences an emergency, [[ECCS|Emergency Core Cooling Systems]] can be utilized to ensure safety.
+Reactors need cooling[^1]. Primary cooling is usually the same way that we extract power, cycling water through the reactor core, then heat exchangers to extract the heat in the case of a PWR or directly use steam from the core in a BWR, and then a [[Condenser]] to return the steam into water that can be heated again. These cooling methods are generally enough to manage the cooling the reactor needs. If the reactor experiences an emergency, [[ECCS|Emergency Core Cooling Systems]] can be utilized to ensure safety.
 
 [^1]: Citation needed
 [^2]: Citation needed

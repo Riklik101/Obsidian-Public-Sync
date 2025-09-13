@@ -26,7 +26,7 @@ Reactivity is controlled by control rods, with gravity feeding for SCRAMs.
 As is a PWR design, the primary circuit is basically water through the RPV, pressurizer, steam gen, then a pump. 
 
 ## Secondary Cooling Circuit
-The secondary is the steam gen, turbine, condenser, deaerator, and then another pump.
+The secondary is the steam gen, turbine, [[Condenser]], deaerator, and then another pump.
 
 ## Third cooling circuit
 Interestingly, there can be another cooling circuit, for industrial and residential heating applications - transferring waste head into the environment from the generation circuit. 

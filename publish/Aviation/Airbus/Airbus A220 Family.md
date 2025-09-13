@@ -1,0 +1,1 @@
+The Airbus A220 is a family of narrow-body airliners that are made for shorter routes - typically domestic routes in the US and elsewhere.  
