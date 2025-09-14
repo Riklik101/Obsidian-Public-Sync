@@ -1,0 +1,3 @@
+A thermal reactor describes a [[Nuclear Reactor]] with the main function of producing thermal heat to be converted to electricity. This term describes all of the operating reactors today with the exception of [[Fast Neutron Reactor]]s. 
+
+A thermal reactor is one in which neutrons are necessary to sustain a fissile reaction that creates heat: unlike a FNR that has an excess of neutrons. A thermal reactor specifically uses thermal neutrons - that are slower then fast neutrons. Thermal neutrons ahve the benefit of being more likely to make [[Nuclear Fuel]] to fission then fast neutrons. 

@@ -1,6 +1,6 @@
 * ~~Breeder Reactor~~
 * many unfinished pages at radiation meters
-* how do cable cars get their electricity?
+* how do [[Cable Car]]s get their electricity?
 * ~~actually do uranium~~
 * Fukushima and Chernobyl 
 * ~~Control rods~~
