@@ -1,0 +1,3 @@
+While working on my research, I have become (and have always been) heavily interested in cybersecurity. However, I don't have a good track record of remembering things over short periods of time so this will be used to record tools and how to use them for the future.
+
+For my education I am using tryhackme's paths. For the OS, I am running on a Win10 machine, however I am using VMware with **Ubuntu** linux as my primary tool. Due to **Kali Linux**'s difficulty and unease in setting up, I will be using Ubuntu until I am comfortable enough with [[Linux]] to move to Kali. 
