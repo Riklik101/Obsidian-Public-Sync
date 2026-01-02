@@ -1,2 +1,1 @@
-Reactor Core Isolation Cooling is a safety system in [[Nuclear Reactor]]s, primarily used as part of the [[ECCS]] system. 
-
+Reactor Core Isolation Cooling is a safety system in [[Nuclear Reactor]]s, primarily used as part of the [[ECCS]] system. Importantly, they are not part of the emergency core cooling systems, and therefore can be used in an non-emergency setting to maintain core water level.
