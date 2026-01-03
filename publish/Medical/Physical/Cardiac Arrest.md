@@ -1,0 +1,1 @@
+Sudden Cardiac Arrest is when all heart activity is lost, due to an irregular heart rhythm, and breathing stops. At this point, you must start [[CPR]] and use an [[AED]]. if available. This is not the same as a [[Heart Attack]], as this is completely sudden. However, a heart attack can lead to a change in rhythm that leads to cardiac arrest.

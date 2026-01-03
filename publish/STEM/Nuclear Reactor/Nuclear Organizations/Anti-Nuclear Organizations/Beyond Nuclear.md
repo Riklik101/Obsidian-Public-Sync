@@ -1,0 +1,4 @@
+Beyond Nuclear is an anti [[Nuclear Reactor]] and anti-nuclear nonprofit. They release news on nuclear reactors, taking a anti-nuclear stance. Recent news has primarily been targeting the [[Michigan Palisades Nuclear Plant]]. 
+
+## Side note, what is up with their pictures??
+Beyond Nuclear, please learn to take better pictures. Your message really degrades when I see a photo thats so pixelated I can visibly count each pixel. According to my file editor, your [Save Lake Michigan](https://beyondnuclear.org/wp-content/uploads/bb-plugin/cache/Save-Lake-Michigan-Shut-Down-Palisades-yard-sign-landscape-a479e5db320743513c04f82785ee07f6-6182a23eb9e85.jpg) photo is 105x150 pixels, but it takes up half the page. So really, its the fault of your webmaster. 

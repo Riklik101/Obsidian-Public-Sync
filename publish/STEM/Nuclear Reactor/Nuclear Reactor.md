@@ -13,6 +13,10 @@ Table of Contents:
 	* Cooling
 * Types of Reactors
 	* BWR, EPR, VVER, PWR, FNR
+* Nuclear Organizations
+	* NRC
+* Anti-Nuclear Organizations
+	* Beyond Nuclear
 # Reactor Operation
 Due to the various types of reactors, I will be assuming a generalized reactor for simplicity.
 ### Startup
@@ -56,7 +60,13 @@ An interesting side note is that since there is only one coolant loop, radioacti
 ## Fast Neutron Reactors
 [[Fast Neutron Reactor]]s have an excess of neutrons, requiring an higher enrichment of uranium. In this type, water is not used as a moderator and different types of coolants can be used. This type is not very common, however. 
 
+# Nuclear Organizations
+## NRC
+The [[NRC]] is the primary nuclear regulatory agency of the US, regulating nuclear power and reactors. 
 
+# Anti Nuclear Organizations
+## Beyond Nuclear
+[[Beyond Nuclear]] is a primarily anti-nuclear organization, advocating and releasing news with an anti-nuclear stance. 
 
 [^1]: Citation needed
 [^2]: Citation needed
