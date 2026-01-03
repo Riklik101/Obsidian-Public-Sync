@@ -1,6 +1,6 @@
 * ~~Breeder Reactor~~
 * many unfinished pages at radiation meters
-* how do [[Cable Car]]s get their electricity?
+* ~~how do [[Cable Car]]s get their electricity?~~
 * ~~actually do uranium~~
 * Fukushima and Chernobyl 
 * ~~Control rods~~
@@ -11,4 +11,6 @@
 * ~~Actually write a page about CANDU reactors~~
 * Finish ADHD
 * CPR
-* 
+
+Page changes:
+* add Magnox to the nuclear reactor mainpage. 
