@@ -2,7 +2,7 @@
 * many unfinished pages at radiation meters
 * ~~how do [[Cable Car]]s get their electricity?~~
 * ~~actually do uranium~~
-* Fukushima and Chernobyl 
+* Fukushima and ~~Chernobyl~~ 
 * ~~Control rods~~
 * RBMK reactor - expand
 * clear out empty page tags
