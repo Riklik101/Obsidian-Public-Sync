@@ -1,9 +1,9 @@
 A steam condenser is a common system used to turn input steam into water again. When steam is heated inside of a facility, such as a coal firing plant, [[Nuclear Reactor]], or other system, it is pressurized then run through high pressure and low pressure turbines, eventually reaching the end of the path where it is still hot yet needs to be cycled back into water; as you must recycle it to reheat it again. For this reason, a steam condenser unit must be used. 
 
-## How does a condenser work? [Savree Explanation](https://www.savree.com/en/encyclopedia/steam-turbine-condenser)
+## How Does a Condenser Work? [Savree Explanation](https://www.savree.com/en/encyclopedia/steam-turbine-condenser)
 ![[Savree Steam Condenser Diagram.png]]
-There are three main areas. You have the water inlet, hotwell, and outlet. The hotwell is the main portion of the condenser. This area, interestingly, is held at a **vaccum**, as this way there is no pressure built up on the turbine exhaust and allows for more efficency.
+There are three main areas. You have the water inlet, hotwell, and outlet. The hotwell is the main portion of the condenser. This area, interestingly, is held at a **vacuum**, as this way there is no pressure built up on the turbine exhaust and allows for more efficiency.
 
-After the steam passes thorugh the hotwell, it meets cold cooling water, which I'll call coolant for brevity. This coolant is usually plain water--although there are chemicals used to ensure cleanliness that may foul up and reduce effiency. After indirectly reaching the coolant the steam turns into condensate, exits the hotwell, and can now be reused.
+After the steam passes through the hotwell, it meets cold cooling water, which I'll call coolant for brevity. This coolant is usually plain water–although there are chemicals used to ensure cleanliness that may foul up and reduce efficiency. After indirectly reaching the coolant the steam turns into condensate, exits the hotwell, and can now be reused.
 
 However, after this process, you have warm coolant that cannot be used again until it cools down. This is where you have a few options for cooling. Many power plants utilize ocean cooling: where this coolant reaches the ocean and the ocean water is cycled through the condensers coolant. An alternate method is by draft cooling: through cooling towers. 

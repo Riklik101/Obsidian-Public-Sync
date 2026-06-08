@@ -1,6 +1,6 @@
 71% of the Earth is covered in water, and yet, the vast majority of people know little about the ocean beyond the names of the oceans and basic properties of water. For this reason, I want to shed a light on the details of the ocean. 
 
-*Thanks to @arclight7077 on discord for inspriring me to pursue research in this field.*
+*Thanks to @arclight7077 on discord for inspiring me to pursue research in this field.*
 
 ## Marine Engineering
 According to Wikipedia, Marine engineering is "the engineering of boats, ships, submarines, and any other marine vessel". This also includes ocean systems and structures, and the career path is joining ships and eventually working as a chief engineer.
